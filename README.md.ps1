@@ -1,8 +1,12 @@
+@'
 
 # Subtitles
 
 Subtitles is a simple module for Subtitles.
 
+'@
+
+@'
 
 
 ## Installing and Importing
@@ -19,6 +23,9 @@ Once installed, you can import it using Import-Module
 Import-Module Subtitles
 ~~~
 
+'@
+
+@'
 
 ## Examples
 
@@ -59,3 +66,4 @@ Get-Childitem -Recurse -Filter *.srt |
     Get-Subtitle |
     Search-Subtitle -Pattern '.'
 ~~~
+'@
