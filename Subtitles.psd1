@@ -76,7 +76,24 @@ PrivateData = @{
         # IconUri = ''
 
         # ReleaseNotes of this module
-        ReleaseNotes = ''
+        ReleaseNotes = @'
+## Subtitles 0.1:
+
+Initial build of Subtitles (#1 #2)
+
+* `Get-Subtitle` (#3)
+* `Export-Subtitle` (#4)
+* `Search-Subtitle` (#11)
+* docs
+  * Examples (#5)
+  * Tests (#6)
+  * Contributing (#7)
+  * Code of Conduct (#8)
+  * Security Guide (#9)
+  * Sponsorship (#10)
+  * README (#12)
+  
+'@
 
         # Prerelease string of this module
         # Prerelease = ''
